@@ -18,10 +18,10 @@ canvas{
 /*countdown*/
 section{
     height: 100vh;
-    color: white;
-    display: flex;
+    color: red;
+    /*display: flex;
     flex-flow: column nowrap;
-    justify-content: center;
+    justify-content: center;*/
     text-align: center;
     font-family: arial;
     font-size: 2rem;
