@@ -19,8 +19,9 @@ canvas{
 section{
     height: 100vh;
     color: red;
-    /*display: flex;
-    flex-flow: column nowrap;
+    display: fixed;
+    top: 50;
+   /* flex-flow: column nowrap;
     justify-content: center;*/
     text-align: center;
     font-family: arial;
