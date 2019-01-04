@@ -556,6 +556,7 @@ color: blue;
 	-ms-transform-origin:0% 0%;
 	-o-transform-origin:0% 0%;
 	transform-origin:0% 0%;
+	color: blue;
 }
 .front-person-titles > .t2{
 	top:5px;
@@ -565,6 +566,7 @@ color: blue;
 	-ms-transform:translateY(-100%);
 	-o-transform:translateY(-100%);
 	transform:translateY(-100%);
+	color: blue;
 }
 .front-person-titles > .t3{
 	left:0;
@@ -574,8 +576,12 @@ color: blue;
 	-ms-transform:translateY(100%) rotate(180deg);
 	-o-transform:translateY(100%) rotate(180deg);
 	transform:translateY(100%) rotate(180deg);
+	color: blue;
 }
 
+.front-person-titles > .t4{
+ color: blue;
+}
 
 .front-person-links{
 	margin:auto;
