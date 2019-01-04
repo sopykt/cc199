@@ -473,7 +473,19 @@ display: block;
 #only{
 color: red;
 }
-.digits{
+#left{
+color: red;
+}
+.t1{
+color: blue;
+}
+.t2{
+color: blue;
+}
+.t3{
+color: blue;
+}
+.t4{
 color: blue;
 }
 .front-person-img{
