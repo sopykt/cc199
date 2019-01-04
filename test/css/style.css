@@ -473,6 +473,9 @@ display: block;
 #only{
 color: red;
 }
+.digits{
+color: blue;
+}
 .front-person-img{
 	width:500px;
 	height:500px;
