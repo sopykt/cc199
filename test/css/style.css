@@ -460,7 +460,11 @@ body.section-show .transition-mask:before{
 	font-family: 'Playfair Display', serif;
 	font-style:italic;
 }
-
+.199div{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 .front-person-img{
 	width:500px;
 	height:500px;
