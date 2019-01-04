@@ -460,15 +460,18 @@ body.section-show .transition-mask:before{
 	font-family: 'Playfair Display', serif;
 	font-style:italic;
 }
-.199div{
+#199div{
 display: block;
   margin-left: auto;
   margin-right: auto;
 }
-.cc199img{
+#cc199img{
 display: block;
   margin-left: auto;
   margin-right: auto;
+}
+#only{
+color: red;
 }
 .front-person-img{
 	width:500px;
